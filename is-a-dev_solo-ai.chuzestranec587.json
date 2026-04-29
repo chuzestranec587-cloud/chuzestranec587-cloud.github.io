@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "chuzestranec587-cloud",
+    "email": "chuzestranec587@gmail.com"
+  },
+  "description": "Live deployment of Solo AI HTML — a self-hosted, offline-capable AI chat interface. One of my projects, see chuzestranec587.is-a.dev for the portfolio.",
+  "repo": "https://github.com/chuzestranec587-cloud/chuzestranec587-cloud.github.io",
+  "record": {
+    "CNAME": "solo-ai.duckdns.org"
+  },
+  "proxied": false
+}
